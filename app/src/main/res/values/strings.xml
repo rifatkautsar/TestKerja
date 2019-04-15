@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestKerja</string>
+
+    <string-array name="status_bayar">
+        <item>Bandung</item>
+        <item>Surabaya</item>
+    </string-array>
+
+
+</resources>
